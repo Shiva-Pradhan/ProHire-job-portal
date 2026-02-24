@@ -41,6 +41,7 @@ User authentication is handled using LocalStorage for demo purposes.
 
 ## 🚀 Live Demo
 
+https://shiva-pradhan.github.io/ProHire-job-portal/
 
 ## 📌 Future Improvements
 
