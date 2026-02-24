@@ -49,7 +49,3 @@ User authentication is handled using LocalStorage for demo purposes.
 - Admin dashboard
 - Real authentication system
 - Resume upload feature
-
----
-
-👨‍💻 Developed as a Frontend Project
